@@ -1,0 +1,616 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Advanced Course" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ընդլայնված դասընթաց"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продвинутый курс"
+          }
+        }
+      }
+    },
+    "Basic Course" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Հիմնական դասընթաց"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Базовый курс"
+          }
+        }
+      }
+    },
+    "Billion years" : {
+
+    },
+    "Certification" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Վկայական"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сертификация"
+          }
+        }
+      }
+    },
+    "Check" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ստուգել"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Проверить"
+          }
+        }
+      }
+    },
+    "Close" : {
+
+    },
+    "Congratulations, you have completed the module!" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поздравляем, Вы прошли модуль!"
+          }
+        }
+      }
+    },
+    "Correct answer!\n\nCorrect:" : {
+
+    },
+    "Correct:" : {
+
+    },
+    "COURSES" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ԴԱՍԵՐ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "КУРСЫ"
+          }
+        }
+      }
+    },
+    "COURSES BY TOPIC" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ԴԱՍԵՐ ԸՍՏ ԹԵՄԱՆԵՐԻ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "КУРСЫ ПО ТЕМАМ"
+          }
+        }
+      }
+    },
+    "Cryptography" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Գաղտնագրություն"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Криптография"
+          }
+        }
+      }
+    },
+    "Cybersecurity fundamentals" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Կիբերանվտանգության հիմունքներ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основы кибербезопасности"
+          }
+        }
+      }
+    },
+    "days" : {
+
+    },
+    "Decode the text:" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Վերծանել տեքստը:"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расшифруйте текст:"
+          }
+        }
+      }
+    },
+    "Drag the card to the desired word.\nClick on the card for a hint" : {
+
+    },
+    "Exam" : {
+
+    },
+    "Exploitation and system defense" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Համակարգի շահագործում և պաշտպանություն"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эксплуатация и защита системы"
+          }
+        }
+      }
+    },
+    "Hands-on vulnerability assessment" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Խոցելիության գործնական գնահատում"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Практическая оценка уязвимости"
+          }
+        }
+      }
+    },
+    "hours" : {
+
+    },
+    "Incorrect answer!\n\nCorrect:" : {
+
+    },
+    "Incorrect:" : {
+
+    },
+    "Intermediate Course" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Միջանկյալ դասընթաց"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Средний курс"
+          }
+        }
+      }
+    },
+    "Job search" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Աշխատանքի որոնում"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск работы"
+          }
+        }
+      }
+    },
+    "Learn" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Սովորել"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Учить"
+          }
+        }
+      }
+    },
+    "Learn the basics of cybersecurity" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Սովորել կիբերանվտանգության հիմունքները"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изучите основы кибербезопасности"
+          }
+        }
+      }
+    },
+    "Let's go!" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Գնացինք!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поехали!"
+          }
+        }
+      }
+    },
+    "Let's learn CyberSecurity!" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Եկեք ուսումնասիրենք կիբերանվտանգությունը!"
+          }
+        }
+      }
+    },
+    "Level" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Մակարդակ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уровень"
+          }
+        }
+      }
+    },
+    "Message" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сообщение"
+          }
+        }
+      }
+    },
+    "Million years" : {
+
+    },
+    "minutes" : {
+
+    },
+    "months" : {
+
+    },
+    "Next" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Հաջորդ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Далее"
+          }
+        }
+      }
+    },
+    "Not Safe" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не безопасно"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Գաղտնաբառ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пароль"
+          }
+        }
+      }
+    },
+    "Phishing" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ֆիշինգ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фишинг"
+          }
+        }
+      }
+    },
+    "Play" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Խաղալ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Играть"
+          }
+        }
+      }
+    },
+    "Read" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Կարդալ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Читать"
+          }
+        }
+      }
+    },
+    "Safe" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Безопасно"
+          }
+        }
+      }
+    },
+    "Search" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Որոնում"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск"
+          }
+        }
+      }
+    },
+    "seconds" : {
+
+    },
+    "Select an image" : {
+
+    },
+    "SQL Injection" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SQL ներարկում"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SQL-инъекция"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Սկսել"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начать"
+          }
+        }
+      }
+    },
+    "Start your career in cybersecurity" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Սկսեք ձեր կիբերանվտանգության կարիերան"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начните карьеру в сфере кибербезопасности"
+          }
+        }
+      }
+    },
+    "Take the exam and get a certificate" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Հանձնեք քննությունը և Ստացեք վկայական"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сдайте экзамен и получите сертификат"
+          }
+        }
+      }
+    },
+    "Take the previous course first!" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Նախ անցեք նախորդ դասընթացը!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сначала пройдите предыдущий курс!"
+          }
+        }
+      }
+    },
+    "Thousand years" : {
+
+    },
+    "Tools" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Գործիքներ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Инструменты"
+          }
+        }
+      }
+    },
+    "Training course" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Վերապատրաստման դասընթաց"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обучающий курс"
+          }
+        }
+      }
+    },
+    "Useful tools for cybersecurity" : {
+      "localizations" : {
+        "hy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Օգտակար գործիքներ կիբերանվտանգության համար"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Полезные инструменты для кибербзопасности"
+          }
+        }
+      }
+    },
+    "years" : {
+
+    },
+    "You cannot flip the card during the exam" : {
+
+    },
+    "You have successfully finished the task! Keep up the great work!" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы успешно завершили задание!\\nПродолжайте в том же духе!"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
