@@ -14,7 +14,7 @@ Interactive gamified platform with AI for cybersecurity training through hands-o
 <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i0.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i2.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i3.jpeg" width="200">
 
 ## We support 3 languages! (English, Armenian and Russian)
-<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/am.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/ru.jpeg" width="200">
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/am.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/rus.jpeg" width="200">
 
 ## Cybersecurity certification
 <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/c1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/c2.jpeg" width="200"> 
