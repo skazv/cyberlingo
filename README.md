@@ -8,19 +8,19 @@ Interactive gamified platform with AI for cybersecurity training through hands-o
 ![CyberSecurity](https://img.shields.io/badge/-Dogecoin-yellow.svg)
 
 ## 
-<img src="https://github.com/skazv/cyberlingo/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/l1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/l2.jpeg" width="200"> 
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/l1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/l2.jpeg" width="200"> 
 
 ## Interactive & Gamified Screens
-<img src="https://github.com/skazv/cyberlingo/Screenshots/i0.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/i1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/i2.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/i3.jpeg" width="200">
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i0.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i2.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/i3.jpeg" width="200">
 
 ## We support 3 languages! (English, Armenian and Russian)
-<img src="https://github.com/skazv/cyberlingo/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/am.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/ru.jpeg" width="200">
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/en.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/am.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/ru.jpeg" width="200">
 
 ## Cybersecurity certification
-<img src="https://github.com/skazv/cyberlingo/Screenshots/c1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/c2.jpeg" width="200"> 
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/c1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/c2.jpeg" width="200"> 
 
 ## Module with AI tools
-<img src="https://github.com/skazv/cyberlingo/Screenshots/tool1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/tool2.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/tool3.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/Screenshots/tool4.jpeg" width="200">
+<img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/tool1.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/tool2.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/tool3.jpeg" width="200"> <img src="https://github.com/skazv/cyberlingo/blob/main/Screenshots/tool4.jpeg" width="200">
 
 ## Stack
  - iOS
